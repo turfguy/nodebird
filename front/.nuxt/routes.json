@@ -1,0 +1,23 @@
+[
+  {
+    "name": "profile",
+    "path": "/profile",
+    "component": "C:\\\\Users\\\\ASUS\\\\Downloads\\\\vuetest\\\\ch1\\\\front\\\\pages\\\\profile.vue",
+    "chunkName": "pages/profile",
+    "_name": "_711291f2"
+  },
+  {
+    "name": "signup",
+    "path": "/signup",
+    "component": "C:\\\\Users\\\\ASUS\\\\Downloads\\\\vuetest\\\\ch1\\\\front\\\\pages\\\\signup.vue",
+    "chunkName": "pages/signup",
+    "_name": "_ec140942"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\ASUS\\\\Downloads\\\\vuetest\\\\ch1\\\\front\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_660b664a"
+  }
+]
